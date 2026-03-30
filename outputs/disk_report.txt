@@ -1,0 +1,25 @@
+========================================
+ Disk Auditor Report
+========================================
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.2G  955G   1% /
+C:\            375G   326G   49G  87% /mnt/c
+D:\            100G    49G   52G  49% /mnt/d
+
+----------------------------------------
+
+Current Directory Size:
+16K .
+
+----------------------------------------
+
+Files and Permissions:
+script1_system_identity.py
+script2_package_inspector.py
+script3_disk_auditor.py
+script4_log_analyzer.py
+script5_manifesto_generator.py
+
+========================================

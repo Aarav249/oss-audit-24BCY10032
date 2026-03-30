@@ -1,0 +1,21 @@
+========================================
+ Log Analyzer Report
+========================================
+
+Keyword searched: error
+
+----------------------------------------
+
+Total matches: 215
+
+----------------------------------------
+
+Last 5 matching lines:
+
+ERROR: Background could not create daemon
+ERROR: could not locate Windows user profile directory
+ERROR: exec format error
+ERROR: fork/exec failed
+ERROR: command execution failed
+
+========================================

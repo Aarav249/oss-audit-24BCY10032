@@ -1,0 +1,19 @@
+========================================
+ Open Source Audit Manifest
+========================================
+
+Name        : aarav
+Project     : OSS Audit
+Software    : Python
+
+----------------------------------------
+
+This document is generated as part of the Open Source Audit Project.
+Python is an open-source tool used widely in development.
+It follows principles like transparency and collaboration.
+
+----------------------------------------
+
+Generated on: 2026-03-30
+
+========================================
